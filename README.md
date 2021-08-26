@@ -45,10 +45,10 @@
 <table>
     <tr>
         <td>
-            <img width="470px" src="https://github-readme-stats.vercel.app/api?username=leoolopes02&show_icons=true&theme=midnight-purple" />
+            <img width="470px" src="https://github-readme-stats.vercel.app/api?username=leoolopes01&show_icons=true&theme=midnight-purple" />
         </td>
         <td>
-            <img width="470px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoolopes02&layout=compact&langs_count=20&theme=midnight-purple"/>
+            <img width="470px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoolopes01&layout=compact&langs_count=20&theme=midnight-purple"/>
         </td>
     </tr>   
 </table>
