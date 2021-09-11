@@ -47,6 +47,10 @@
         <td>
             <img width="470px" src="https://github-readme-stats.vercel.app/api?username=leoolopes01&show_icons=true&theme=midnight-purple" />
         </td>
+        
+        <td>
+            <img width="470px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoolopes01&layout=compact&theme=midnight-purple"/>
+        </td>
     </tr>   
 </table>
 
