@@ -4,7 +4,7 @@
 
 - <p>Specialist in open source technologies. 👨🏻‍💻</p>
 - <p>Full stack JavaScript. ⭐</p>
-- <p> Student at Impacta/Alura/B7Web. 📚</p>
+- <p> Student at Impacta/RocketSeat/Alura/B7Web. 📚</p>
 - <p>"Just trying to make a better code." 🔥</p>
 
 <br>
