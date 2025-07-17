@@ -1,8 +1,16 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="left">
+  Hey, <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="45" /> What's up?
+</h1>
 
-###
+<p align="left">
+  You can call me <strong>Lopes</strong>. I'm a Senior Developer from Brazil 🇧🇷<br />
+  Breaking things since 2013 and fixing them with the same passion.<br />
+  Currently diving into my favorite hobbies and building cool stuff.
+</p>
 
-<div align="center">
+<h2>🛠️ I code with</h2>
+
+<div align="left">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
@@ -64,28 +72,13 @@
   <img src="https://skillicons.dev/icons?i=svelte" height="60" alt="svelte logo"  />
 </div>
 
-###
+<img src="https://raw.githubusercontent.com/lopescode/lopescode/output/snake.svg" alt="Snake animation" />
 
-<div align="center">
+<h2>📫 Let's connect</h2>
+
+<div align="left">
   <a href="https://www.linkedin.com/in/lopes-code/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=lopes.code&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=lopescode&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=lopescode&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lopescode/lopescode/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lopescode/lopescode/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lopescode/lopescode/output/pacman-contribution-graph.svg">
-</picture>
-
-###
