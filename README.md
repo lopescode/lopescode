@@ -6,7 +6,7 @@
   You can call me <strong>Lopes</strong>. I'm a Senior Developer from Brazil 🇧🇷<br />
   Breaking stuff since 2013 (and occasionally fixing it 😅).<br />
   I love experimenting with code, from blockchain to automation tools.<br /><br />
-  Iteach and share my dev journey on YouTube:
+  I teach what I know and share my dev journey on YouTube:
 <a href="https://www.youtube.com/@lopescode" target="_blank"><strong>Code with Lopes</strong></a> <br />
 
   Building cool things, one bug at a time.
