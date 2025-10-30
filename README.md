@@ -9,7 +9,7 @@
   I teach what I know and share my dev journey on YouTube:
 <a href="https://www.youtube.com/@lopescode" target="_blank"><strong>Code with Lopes</strong></a> <br />
 
-  Building cool things, one bug at a time.
+  "Building cool things, one bug at a time."
 </p>
 
 <h2>🛠️ I code with</h2>
