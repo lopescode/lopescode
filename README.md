@@ -1,36 +1,32 @@
 <div align="center">
 
-# 👋 Hey, I'm Lopes
+# Hey, I'm Lopes
 
 ### Building Developer Tools • Blockchain Applications • Educational Content
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFB2&center=true&vCenter=true&width=700&lines=Senior+Software+Engineer;Neo+Blockchain+Developer;Open+Source+Builder;Content+Creator;Building+for+Developers;Code+With+Lopes" />
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=lopescode&theme=algolia&no-frame=true&row=1&column=7" />
-
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```txt
 🇧🇷 Software Engineer from Brazil
 
-⚡ Building products since 2013
-🧱 Blockchain Developer focused on Neo
-🎥 Content Creator behind Code With Lopes
-🛠️ Passionate about developer tools and automation
-🌱 Helping developers transition into blockchain
+- Building products since 2013
+- Blockchain Developer focused on Neo
+- Content Creator behind Code With Lopes
+- Passionate about developer tools and automation
+- Helping developers transition into blockchain
 ```
 
 > Building the future, one commit at a time.
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 - Building tools for Neo developers
 - Creating educational blockchain content
@@ -87,14 +83,6 @@ Help traditional software developers become blockchain developers through practi
 ### 🧱 Neo Developer Kit
 
 Developer toolkit for building applications on Neo blockchain.
-
-### ⚙️ VSCode Blockchain Extension
-
-Deploy, invoke and interact with smart contracts directly from VSCode.
-
-### 🤖 AI WhatsApp Assistant
-
-Human-like virtual assistant focused on customer support and scheduling.
 
 ### 🎓 Neo Developer Journey
 
@@ -159,7 +147,7 @@ const lopes = {
 
 ---
 
-## 🌎 Connect With Me
+## Connect With Me
 
 <div align="center">
 
