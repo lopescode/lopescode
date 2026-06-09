@@ -55,7 +55,7 @@ Help traditional software developers become blockchain developers through practi
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -78,31 +78,19 @@ Help traditional software developers become blockchain developers through practi
 
 ---
 
-## 🚧 What I'm Building
+## What I'm Building
 
-### 🧱 Neo Developer Kit
+### Neo Developer Kit
 
 Developer toolkit for building applications on Neo blockchain.
 
-### 🎓 Neo Developer Journey
+### Neo Developer Journey
 
 Educational platform helping developers enter the blockchain ecosystem.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lopescode&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopescode&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🔥 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -112,7 +100,7 @@ Educational platform helping developers enter the blockchain ecosystem.
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -122,7 +110,7 @@ Educational platform helping developers enter the blockchain ecosystem.
 
 ---
 
-## ⚡ Fun Facts
+## Fun Facts
 
 ```typescript
 const lopes = {
