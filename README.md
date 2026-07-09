@@ -88,18 +88,6 @@ Developer toolkit for building applications on Neo blockchain.
 
 Educational platform helping developers enter the blockchain ecosystem.
 
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lopescode&theme=react-dark&hide_border=true" />
-
-</div>
-
----
-
 ## Contribution Snake
 
 <div align="center">
