@@ -4,7 +4,7 @@
 
 ### Building Developer Tools • Blockchain Applications • Educational Content
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFB2&center=true&vCenter=true&width=700&lines=Senior+Software+Engineer;Neo+Blockchain+Developer;Open+Source+Builder;Content+Creator;Building+for+Developers;Code+With+Lopes" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFB2&center=true&vCenter=true&width=700&lines=Senior+Software+Engineer;Blockchain+Developer;Open+Source+Builder;Content+Creator;Building+for+Developers;Code+With+Lopes" />
 
 </div>
 
